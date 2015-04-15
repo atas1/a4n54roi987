@@ -1,0 +1,12 @@
+1. Proces biznesowy do zaimplementowania.
+	Wybranym procesem biznesoym będzie zaimplementowania wytyczania drogi między dwoma użytkownikami. W procesie udział biorą Użytkownicy, Serwer oraz Google Api.
+
+2. Języki programowania, technologie.
+	W projekcie użyta zostanie Java w postaci Aplikacji oraz php, mysql oraz prawdopodobnie crona.
+
+3. Harmonogram
+	22.04 - analiza problemu, przygotowanie środowiska
+	29.04 - opracowanie akcji po stronie serwera
+	13.05 - wstępne wdrożenie aplikacji frontendowej
+	27.05 - prezentacja projektu
+
