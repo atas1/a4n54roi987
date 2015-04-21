@@ -1,12 +1,18 @@
 1. Proces biznesowy do zaimplementowania.
-	Wybranym procesem biznesoym będzie zaimplementowania wytyczania drogi między dwoma użytkownikami. W procesie udział biorą Użytkownicy, Serwer oraz Google Api.
+	Wybranym procesem biznesowym będzie zaimplementowanie wytyczania drogi między dwoma użytkownikami. 
+	W procesie udział biorą Użytkownicy, Serwer oraz Google Maps Api. 
+	Proces polega na przesłaniu przez użytkownika A użytkownikowi B swojego położenia w celu wytycznia przez Google Maps Api trasy dotarcia do użytkownika B. 
+	W procesie wymuszone będzie używanie przez Google Maps Api XML-a.
 
-2. Języki programowania, technologie.
-	W projekcie użyta zostanie Java w postaci Aplikacji oraz php, mysql oraz prawdopodobnie crona.
+2. Języki programowania, technologie użyte do stworzenia projektu.
+	Aplikacja korzystająca z naszego projetku stworzona zostanie na platformę android. 
+	Do realizacji całości projektu użyta zostanie Java, PHP, MySQL oraz prawdopodobnie crona.
 
-3. Harmonogram
-	22.04 - analiza problemu, przygotowanie środowiska
-	29.04 - opracowanie akcji po stronie serwera
-	13.05 - wstępne wdrożenie aplikacji frontendowej
-	27.05 - prezentacja projektu
-
+3. Wstępny harmonogram realizacji projektu
+	22.04 - przygotowanie środowiska programistycznego PhpStorm oraz Android Studio, serwera (subdomena na linuxpl.com), zapoznanie się z Githubem, wstępna analiza sposobu realizacji przedsięwzięcia
+	29.04 - udział w wykładzie na temat GIT-a organizowanym na uczelni w celu poszerzenia wiedzy na temat systemów kontroli wersji
+	06.05 - opracowanie części projektu realizowanej po stronie serwera: PHP, MySQL, Cron 
+	20.05 - opracowanie części projektu reazlizowanej na urządzeniu urzytkowników a i b
+	27.05 - realizacjia fazy testowej projektu, udostęnienie aplikacji członkom grupy w celu przetestowania i zebrania opini
+	03.06 - wprowadzenie koniecznych poprawek po analizie fazy testowej projetku
+	10.06 - prezentacja zrealizowanego projektu
