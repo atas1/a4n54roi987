@@ -1,0 +1,23 @@
+CREATE TABLE user
+(id int NOT NULL AUTO_INCREMENT,
+name varchar(255),
+password varchar(255),
+email varchar (255),
+PRIMARY KEY (id)
+);
+
+CREATE TABLE relation
+(user_id int,
+friend_id int,
+status boolean
+);
+
+CREATE TABLE operation
+(id int NOT NULL AUTO_INCREMENT,
+send_id int,
+recipient_id int,
+gps_lat float,
+gps_lon float,
+status boolean,
+PRIMARY KEY (id)
+);
